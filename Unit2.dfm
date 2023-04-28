@@ -12,15 +12,15 @@ object Form2: TForm2
   Font.Style = []
   TextHeight = 15
   object Label1: TLabel
-    Left = 304
-    Top = 232
+    Left = 112
+    Top = 344
     Width = 34
     Height = 15
     Caption = 'Label1'
   end
   object Button1: TButton
-    Left = 288
-    Top = 280
+    Left = 392
+    Top = 360
     Width = 75
     Height = 25
     Caption = 'Button1'
@@ -33,11 +33,11 @@ object Form2: TForm2
     Height = 89
     Lines.Strings = (
       'Memo1')
-    TabOrder = 1
-   end
+    TabOrder = 2
+  end
   object Button2: TButton
-    Left = 56
-    Top = 72
+    Left = 440
+    Top = 80
     Width = 75
     Height = 25
     Caption = 'Felipe'
