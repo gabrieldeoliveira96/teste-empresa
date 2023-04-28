@@ -9,6 +9,7 @@ uses
 type
   TForm2 = class(TForm)
     Button1: TButton;
+    Memo1: TMemo;
   private
     { Private declarations }
   public
