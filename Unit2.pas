@@ -11,6 +11,7 @@ type
     Button1: TButton;
     Button2: TButton;
     Label1: TLabel;
+    Memo1: TMemo;
   private
     { Private declarations }
   public
